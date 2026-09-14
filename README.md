@@ -5,7 +5,7 @@ API REST completa desenvolvida em Spring Boot com persistência em PostgreSQL.
 
 ## Tecnologias
 - Java 21
-- Spring Boot 3.x
+- Spring Boot 4.1.1
 - Spring Data JPA
 - PostgreSQL 18
 
